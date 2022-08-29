@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace JogoInfantil
+namespace JogoInfantil.Entities
 {
     class Regras
     {
